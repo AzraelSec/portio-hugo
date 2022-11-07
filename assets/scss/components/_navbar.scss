@@ -25,6 +25,11 @@
             padding: 15px 20px;
         }
     }
+
+    .text-logo {
+        font-family: 'Dancing Script';
+    }
+
     @include desktop {
         .navbar-toggler {
             outline: 0;
